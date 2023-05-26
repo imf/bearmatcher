@@ -5,6 +5,6 @@ Bear Matcher
 
 From chapter 2 of the FastAI course.
 
-https://mybinder.org/v2/gh/imf/bearmatcher/HEAD?labpath=%2Fvoila%2Frender%2Fbear-matcher%2Cipynb
+https://mybinder.org/v2/gh/imf/bearmatcher/HEAD?labpath=%2Fvoila%2Frender%2Fbear-matcher.ipynb
 
 
